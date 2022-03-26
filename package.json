@@ -1,0 +1,23 @@
+{
+  "name": "netlifyserverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icancodebeauty/NetlifyServerless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icancodebeauty/NetlifyServerless/issues"
+  },
+  "homepage": "https://github.com/icancodebeauty/NetlifyServerless#readme",
+  "dependencies": {
+    "instagramdp": "^1.0.2"
+  }
+}
